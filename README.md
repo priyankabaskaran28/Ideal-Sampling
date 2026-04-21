@@ -2,6 +2,13 @@
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
+Google Colab
+Python
+NumPy Library
+Matplotlib Library
+Internet Connection
+Computer / Laptop
+
 # Program
 
 # IDEAL SAMPLING
